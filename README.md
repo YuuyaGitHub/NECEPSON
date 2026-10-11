@@ -23,3 +23,7 @@ Therefore, the displayed output may differ on actual hardware, other emulators, 
 * Any DOS-based OS
 > [!NOTE]
 > It does not run on systems other than the NEC PC-98, such as the IBM PC.
+
+# If you encounter a problem
+If an issue arises while running this program, please open an issue.  
+Alternatively, you can fork the repository and fix it yourself.
